@@ -1,11 +1,9 @@
-👋 Hi, I’m @Aw4iskh4n, a BS student majoring in Cyber Security. Beyond academia, I've cultivated a passion for web development and graphic design which I've turned into an expert-level hobby.
+👋 Hi, I’m @Aw4iskh4n, a Cyber Security student with a knack for web development and graphic design.
 
-👀 I’m deeply interested in exploring the confluence of cyber security principles with web applications, and how design can enhance user experience without compromising security.
+👀 Intrigued by the fusion of design and security.
 
-🌱 I’m currently delving deeper into advanced cyber security techniques and protocols, always looking to integrate them seamlessly into web solutions.
+🌱 Always evolving, always learning.
 
-💞️ I’m eager to collaborate with like-minded individuals on projects that intersect the domains of web development, graphic design, and cyber security. Let's innovate together!
+💞️ Open to innovative collaborations.
 
-📫 Reach out to me via email at awais.muhammadd4@email.com
-
-
+📫 Contact me: awais.muhammadd4@gmail.com.
